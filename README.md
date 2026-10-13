@@ -15,6 +15,9 @@ I follow along with a grad-level syllabus covering the following subtopics:
 
 ### Notes
 * **[Special Relativity (Review using Leonard Susskind's Lectures)](Special_Relativity.pdf)**
+* **[Topological Spaces](topological_spaces.pdf)**
+* **[Topological Manifolds](manifolds.pdf)**
+* [Multilinear Algebra](alg.pdf)**
 
 ## 🎯 Core Objectives
 
