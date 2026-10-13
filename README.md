@@ -11,7 +11,7 @@ I follow along with a grad-level syllabus covering the following subtopics:
 
 1. **Primary Text:** *Spacetime and Geometry: An Introduction to General Relativity* by Sean M. Carroll.
 2. **Supplementary Text:** *A First Course in General Relativity* by Bernard Schutz.
-3. **Supplementary Lectures:** *Lectures on General Relativity* by Frederic P. Schuller (YouTube Series).
+3. **Supplementary Lectures:** *Lectures on General Relativity* by Frederic P. Schuller! (YouTube Series).
 
 ### Notes
 * **[Special Relativity (Review using Leonard Susskind's Lectures)](Special_Relativity.pdf)**
