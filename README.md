@@ -14,7 +14,7 @@ I follow along with a grad-level syllabus covering the following subtopics:
 3. **Supplementary Lectures:** *Lectures on General Relativity* by Frederic P. Schuller (YouTube Series).
 
 ### Notes
-
+* **[Special Relativity (Review using Leonard Susskind's Lectures)](Special_Relativity.pdf)**
 
 ## 🎯 Core Objectives
 
