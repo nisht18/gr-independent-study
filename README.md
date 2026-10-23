@@ -18,6 +18,10 @@ I follow along with a grad-level syllabus covering the following subtopics:
 * **[Topological Spaces](topological_spaces.pdf)**
 * **[Topological Manifolds](manifolds.pdf)**
 * **[Multilinear Algebra](alg.pdf)**
+* **[Differentiable Manifolds](differentiable_manifolds.pdf)**
+* **[Tangent Spaces](tangent_spaces.pdf)**
+
+
 
 ## 🎯 Core Objectives
 
