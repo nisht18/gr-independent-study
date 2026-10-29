@@ -20,6 +20,10 @@ I follow along with a grad-level syllabus covering the following subtopics:
 * **[Multilinear Algebra](alg.pdf)**
 * **[Differentiable Manifolds](differentiable_manifolds.pdf)**
 * **[Tangent Spaces](tangent_spaces.pdf)**
+* **[Fields](fields.pdf)**
+* **[Connections](connections.pdf)**
+* **[Parallel Transport and Curvature](ptc.pdf)**
+* **[Newtonian Spacetime is Curved!](newtonian_spacetime.pdf)**
 
 
 
