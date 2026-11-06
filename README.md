@@ -24,6 +24,10 @@ I follow along with a grad-level syllabus covering the following subtopics:
 * **[Connections](connections.pdf)**
 * **[Parallel Transport and Curvature](ptc.pdf)**
 * **[Newtonian Spacetime is Curved!](newtonian_spacetime.pdf)**
+* **[Metric Manifolds](metric_manifolds.pdf)**
+* **[Symmetry](symmetry.pdf)**
+* **[Integration on Manifolds](manifold_integration.pdf)**
+
 
 
 
