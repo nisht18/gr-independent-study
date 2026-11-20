@@ -14,6 +14,8 @@ I follow along with a grad-level syllabus covering the following subtopics:
 3. **Supplementary Lectures:** *Lectures on General Relativity* by Frederic P. Schuller! (YouTube Series).
 
 ### Notes
+
+### WE-Heraeus International Winter School on Gravity and Light
 * **[Special Relativity (Review using Leonard Susskind's Lectures)](Special_Relativity.pdf)**
 * **[Topological Spaces](topological_spaces.pdf)**
 * **[Topological Manifolds](manifolds.pdf)**
@@ -28,8 +30,9 @@ I follow along with a grad-level syllabus covering the following subtopics:
 * **[Symmetry](symmetry.pdf)**
 * **[Integration on Manifolds](manifold_integration.pdf)**
 
-
-
+### Carrol & Schutz
+* **[Index Notation & the Einstein Summation Convention](GR_L1.pdf)
+* tensors (coming soon)
 
 ## 🎯 Core Objectives
 
