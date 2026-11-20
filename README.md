@@ -31,7 +31,7 @@ I follow along with a grad-level syllabus covering the following subtopics:
 * **[Integration on Manifolds](manifold_integration.pdf)**
 
 ### Carrol & Schutz
-* **[Index Notation & the Einstein Summation Convention](GR_L1.pdf)
+* **[Index Notation & the Einstein Summation Convention](GR_L1.pdf)**
 * tensors (coming soon)
 
 ## 🎯 Core Objectives
